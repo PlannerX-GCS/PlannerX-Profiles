@@ -8,3 +8,4 @@ Rohan ,connectrohans@gmail.com,6361704465,Karnataka
 John,masterjohnarmstrong@gmail.com,7704044174,Karnataka
 John,jig@gmail.com,8840647690,Manipur
 fbsd,dvsdv@abc.in,7704044174,Meghalaya
+John,john2@gmail.com,7704044174,Mizoram
